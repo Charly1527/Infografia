@@ -1,0 +1,2 @@
+# Infografia
+Una pequeña información
